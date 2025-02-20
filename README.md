@@ -6,7 +6,7 @@ Hi, I'm **Soniya Chand**! I am a **Computer Engineering student** with a passion
 ## Skills
 - C
 - C++
-- Unity
+  
 
 ## Contact
 - Email: soniyachand312@gmail.com
